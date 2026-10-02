@@ -1,6 +1,6 @@
 # 花云机场 FlowerCloud 最新官网和测评
 
-> 官网：[https://www.huacloud.top](https://www.huacloud.top)  
+> 官网：[huacloud.top](https://www.huacloud.top)  
 > 更新时间：2026 年 10 月 02 日
 > 
 > 说明：本文基于独立评测、价格页信息与长期用户反馈整理，仅供参考，不构成购买建议。实际体验因运营商、时段和个人网络环境而异。
@@ -13,7 +13,7 @@
 
 本文不写「神车」「闭眼入」，只尽量把公开能核对的信息、常见优缺点和适合人群说清楚，方便你自己判断。
 
-官网统一入口：**[https://www.huacloud.top](https://www.huacloud.top)**。价格、节点状态、帮助文档均可从该站进入核对。
+官网统一入口：**[huacloud.top](https://www.huacloud.top)**。价格、节点状态、帮助文档均可从该站进入核对。
 
 ---
 
@@ -59,7 +59,7 @@
 - 价格页通常写明：常规产品付款后立即开通，一经付款不提供退款。下单前务必把流量档和设备数想清楚。
 - 0.2x 实验节点：实际走 1 GiB 只扣约 0.2 GiB 套餐流量，适合下载、备份；实时视频和游戏仍建议优先用正常倍率专线节点。
 
-官网价格与套餐详情请直接打开：[https://www.huacloud.top](https://www.huacloud.top) 对应价格页核对。
+官网价格与套餐详情请直接打开：[huacloud.top](https://www.huacloud.top) 对应价格页核对。
 
 ---
 
@@ -95,7 +95,7 @@
 
 主要支持 SS 与 Trojan。Trojan 使用时注意客户端「跳过证书验证」等设置，具体以帮助文档为准。常见客户端包括 Windows 上的 Clash Verge / FlClash、安卓上的 FlClash / Clash Meta / Surfboard、iOS 侧小火箭等。路由器方案（OpenClash、MerlinClash 等）官方一般不提供统一技术支持，属于自用自担。
 
-官网有软件下载与帮助文档入口，可从 [https://www.huacloud.top](https://www.huacloud.top) 进入。
+官网有软件下载与帮助文档入口，可从 [huacloud.top](https://www.huacloud.top) 进入。
 
 ---
 
@@ -155,7 +155,7 @@
 ## 八、使用建议与避坑
 
 1. **先核对官网**  
-   统一从 [https://www.huacloud.top](https://www.huacloud.top) 进入，价格、状态、帮助文档以该站为准。
+   统一从 [huacloud.top](https://www.huacloud.top) 进入，价格、状态、帮助文档以该站为准。
 
 2. **流量先估算再下单**  
    用现有统计跑一周，再乘四，大致判断需要 Lite 还是 Plus。视频党、多设备家庭很容易低估用量。
@@ -184,7 +184,7 @@
 - 视频 + AI + 多设备 → Plus 更常见。
 - 流量很大或需要更高支持优先级 → Max 或企业档。
 
-建议从官网 [https://www.huacloud.top](https://www.huacloud.top) 查看最新价格与状态，优先月付或小流量档体验一段时间，再决定是否长期使用。任何网络服务都会随时间和上游变化，把自己的连续测试数据放在第一位，比任何一篇测评都更可靠。
+建议从官网 [huacloud.top](https://www.huacloud.top) 查看最新价格与状态，优先月付或小流量档体验一段时间，再决定是否长期使用。任何网络服务都会随时间和上游变化，把自己的连续测试数据放在第一位，比任何一篇测评都更可靠。
 
 ---
 
