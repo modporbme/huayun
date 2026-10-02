@@ -74,7 +74,12 @@
 - **美国（洛杉矶、圣何塞等）**：ChatGPT、美区开发与部分流媒体。
 - **欧洲（伦敦、法兰克福、巴黎、阿姆斯特丹等）**：欧区网站与学术资源，延迟较高，按需使用。
 
+![相关截图](https://raw.githubusercontent.com/modporbme/huayun/main/huayun/1.png)
+![相关截图](https://raw.githubusercontent.com/modporbme/huayun/main/huayun/2.png)
+
 入口侧常被提到的有广港、沪日、京德等专线方向，配合多运营商 BGP，不同宽带下的表现会有差异。自己连续测几天，比看别人一张截图更有参考价值。
+
+![相关截图](https://raw.githubusercontent.com/modporbme/huayun/main/huayun/3.png)
 
 ### 2. 晚高峰与稳定性
 
